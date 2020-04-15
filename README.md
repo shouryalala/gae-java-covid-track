@@ -1,6 +1,8 @@
 # Covid Track
 ### A simple Patient record management system
 
+![Screenshot](https://github.com/shouryalala/gae-java-covid-track/blob/master/screenshot.jpg)
+
 This project demonstrates the use of the Google App Engine. It also uses Cloud Firestore to store and retrieve data in real-time and uses firestore storage for images.
 
 This project is built on top of the [getting started guide](https://cloud.google.com/java/getting-started-appengine-standard/tutorial-app) and is meant to help users get started with GAE quickly.
